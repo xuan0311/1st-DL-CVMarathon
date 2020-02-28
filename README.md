@@ -46,7 +46,54 @@ D21  Transfer learning
 D22  Breaking Captchas with a CNN
 
 ## 3. CNN 應用案例學習
+D23  Object detection原理
 
+D24  Object detection基本介紹、演進
+
+D25  Region Proposal、IOU概念
+
+D26  RPN架構介紹
+
+D27  Bounding Box Regression原理
+
+D28  Non-Maximum Suppression (NMS)原理
+
+D29-31  程式導讀、實作
+
+D32  YOLO 簡介及算法理解
+
+D33  YOLO 細節理解 - 網路輸出的後處理
+
+D34  YOLO 細節理解 - 損失函數
+
+D35  YOLO 細節理解 - 損失函數程式碼解讀
+
+D36  YOLO 細節理解 - 網路架構
+
+D37  YOLO 細節理解 - 網路架構程式碼解讀
+
+D38  YOLO 演進
+
+D39  使用 YOLOv3 偵測圖片及影片中的物件
+
+D40  更快的檢測模型 - tiny YOLOv3
+
+D41  訓練 YOLOv3
 ## 4. 電腦視覺深度學習實戰
+D42  人臉關鍵點-資料結構簡介
+
+D43  人臉關鍵點-檢測網路架構
+
+D44  訓練人臉關鍵點檢測網路
+
+D45  人臉關鍵點應用
+
+D46  Mobilenet
+
+D47  Ｍobilenetv2
+
+D48  Tensorflow Object Detection API
+
 
 ## 5. 期末專題
+D49-50  期末專題
